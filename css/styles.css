@@ -100,14 +100,19 @@ p {
 }
 
 .testimonial-image {
-  height: 300px;
+  height: 100px;
   margin: 10px;
   border-radius: 100%;
   vertical-align: middle;
 }
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
 
 .carousel-item {
   padding: 7% 15%;
+
 }
 
 /* Press Section */
@@ -127,7 +132,10 @@ p {
   padding: 100px;
   text-align: center;
 }
-
+.pricing-heading {
+font-size: 3rem;
+line-height: 1.5;
+}
 .pricing-column {
   padding: 3% 2%;
 }
